@@ -72,10 +72,6 @@
         <linearGradient x1="1494.57" y1="635.412" x2="2501.43" y2="1286.59" gradientUnits="userSpaceOnUse"
             spreadMethod="reflect" id="limeytranslucent">
             <stop offset="0" stop-color="rgba(87,238,37,0.05)" />
-            <stop offset="0.258065" stop-color="rgba(84,233,35,0.05)" />
-            <stop offset="0.5" stop-color="rgba(78,220,31,0.05)" />
-            <stop offset="0.758065" stop-color="rgba(69,200,25,0.05)" />
-            <stop offset="1" stop-color="rgba(59,175,17,0.05)" />
         </linearGradient>
     </defs>
     <style>
