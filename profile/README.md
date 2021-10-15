@@ -1,4 +1,4 @@
-## LimeyTeam
+<h1 align=center>LimeyTeam</h1>
 
 ![](/assets/animated_logo.svg)
 
